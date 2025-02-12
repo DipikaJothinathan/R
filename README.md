@@ -1,5 +1,4 @@
-Objective
-The objective of this project is to analyze various undergraduate majors to determine which fields offer the highest financial returns. Using a dataset from the WSJ PayScale survey of 1.2 million people, the study applies K-Means Clustering to categorize majors based on salary outcomes. The goal is to provide insights into which degrees yield the best long-term earning potential, aiding students in making informed career choices.
+Objective: The objective of this project is to analyze various undergraduate majors to determine which fields offer the highest financial returns. Using a dataset from the WSJ PayScale survey of 1.2 million people, the study applies K-Means Clustering to categorize majors based on salary outcomes. The goal is to provide insights into which degrees yield the best long-term earning potential, aiding students in making informed career choices.
 
 Summary
 This project examines salary trends across different undergraduate majors, focusing on starting and mid-career earnings. The K-Means Clustering method was applied to identify high-earning degree fields. Key findings include:
